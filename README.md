@@ -7,6 +7,6 @@ python translate.py A B
 A : path to folder with .gib files 
 B : path to write folder with .sgf files
 
-It can operate on a neseted directory of .gib files and recreate the directory structure in the write folder.
+It can operate on a nested directory of .gib files and recreate the directory structure in the write folder.
 For the individual records it will record the names of the players and all the moves and drop everything else.
 
